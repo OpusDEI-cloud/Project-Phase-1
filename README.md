@@ -55,4 +55,4 @@ Explore the interactive dashboard [here](https://public.tableau.com/app/profile/
 
 
 ## Contact
-For any questions or feedback, please contact the project team at OpusDEI-cloud.
+For any questions or feedback, please contact the project team at https://github.com/OpusDEI-cloud.
