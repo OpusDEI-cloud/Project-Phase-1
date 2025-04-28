@@ -49,6 +49,10 @@ This project aims to analyze aviation accident data to identify aircraft types t
 2. Ensure the required datasets (`AviationData.csv` and `USState_Codes.csv`) are in the `Data/` directory.
 3. Open the Jupyter Notebook file `Phase 1 Project Analysis.ipynb`.
 4. Run the cells sequentially to reproduce the analysis and visualizations.
+## 📊 Interactive Dashboard
+
+Explore the interactive dashboard [here](https://OpusDEI-cloud.github.io/Project-Phase-1/).
+
 
 ## Contact
 For any questions or feedback, please contact the project team at OpusDEI-cloud.
