@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
 # C extensions
 *.so
 
@@ -78,6 +83,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
 # IPython
 profile_default/
 ipython_config.py
@@ -136,6 +144,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# Ignore virtual environments
+.env/
+venv/
+ENV/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -172,3 +185,28 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+
+# Ignore data files (if not needed in version control)
+Data/*.csv
+
+# Ignore Tableau files
+*.twb
+*.twbx
+
+# Ignore PDFs
+*.pdf
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore other unnecessary files
+*.swp
+*.swo
+*.~
+*.lock
