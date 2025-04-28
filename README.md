@@ -51,8 +51,7 @@ This project aims to analyze aviation accident data to identify aircraft types t
 4. Run the cells sequentially to reproduce the analysis and visualizations.
 ## 📊 Interactive Dashboard
 
-Explore the interactive dashboard [here](https://public.tableau.com/app/profile/raphael.ragot/viz/Phase1ProjectInteractiveDashboard/Dashboard1).
-
+Explore the interactive dashboard [here](https://public.tableau.com/app/profile/raphael.ragot/viz/Phase1ProjectInteractiveDashboard/Dashboard1)
 
 ## Contact
 For any questions or feedback, please contact the project team at ragotraphael@gmail.com
