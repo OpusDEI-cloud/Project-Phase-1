@@ -47,11 +47,13 @@ This project aims to analyze aviation accident data to identify aircraft types t
 ## How to Run the Project
 1. Clone the repository.
 2. Ensure the required datasets (`AviationData.csv` and `USState_Codes.csv`) are in the `Data/` directory.
-3. Open the Jupyter Notebook file `Phase 1 Project Analysis.ipynb`.
-4. Run the cells sequentially to reproduce the analysis and visualizations.
+3. Install the required Python libraries by running `pip install -r requirements.txt` (ensure you have Python 3.8 or later).
+4. Open the Jupyter Notebook file `Phase 1 Project Analysis.ipynb`.
+5. Run the cells sequentially to reproduce the analysis and visualizations.
+
 ## 📊 Interactive Dashboard
 
-Explore the interactive dashboard [here](https://public.tableau.com/app/profile/raphael.ragot/viz/Phase1ProjectInteractiveDashboard/Dashboard1)
+Explore the interactive dashboard [here](https://public.tableau.com/app/profile/raphael.ragot/viz/Phase1ProjectInteractiveDashboard/Dashboard1). The dashboard provides insights into accident frequencies grouped by aircraft type, Proportional Fatal Injuries, and seasonal trends, allowing users to interact with the data for deeper analysis.
 
 ## Contact
-For any questions or feedback, please contact the project team at ragotraphael@gmail.com
+For any questions or feedback, please contact the project team at [ragotraphael@gmail.com](mailto:ragotraphael@gmail.com).
